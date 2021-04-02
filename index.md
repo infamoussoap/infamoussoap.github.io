@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome To My Page!
 
-You can use the [editor on GitHub](https://github.com/infamoussoap/infamoussoap.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there, I have no idea what I'm doing so let's see what happens.
 
 ### Markdown
 
